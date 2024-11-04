@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 10px;
+}
+.heading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #023B59;
+  text-align: center;
+  text-transform: uppercase;
+}

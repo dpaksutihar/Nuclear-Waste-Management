@@ -1,0 +1,144 @@
+.card-key {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #023B59;
+}
+
+.card-value {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #482673;
+}
+
+.drum-card-view{
+  padding: 8px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: 12px;
+}
+
+/* card.css */
+
+/* Table Styling */
+.table-responsive {
+  margin: 20px auto;
+  width: 100%;
+}
+
+.table th, .table td {
+  padding: 12px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table th {
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.badge {
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.badge.bg-success {
+  background-color: #28a745;
+  color: white;
+}
+
+.badge.bg-warning {
+  background-color: #ffc107;
+  color: black;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.btn-dark:hover {
+  background-color: #23272b;
+}
+
+/* Container styles for the drum card */
+.drum-card-container {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Header section */
+.drum-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.drum-card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.drum-card-address {
+  font-size: 1rem;
+  color: #666;
+}
+
+/* Body section */
+.drum-card-body {
+  margin-top: 10px;
+}
+
+.drum-card-subtitle {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+/* Table styles */
+.drum-products-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.drum-products-table th,
+.drum-products-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.drum-products-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  color: #333;
+}
+
+.drum-products-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.drum-products-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* No products text */
+.no-products-text {
+  font-size: 1rem;
+  color: #777;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.nav-link{
+  cursor: pointer;
+}

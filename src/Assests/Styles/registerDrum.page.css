@@ -1,0 +1,20 @@
+
+.main-container{
+    margin-left: 35%;
+    text-align: center;
+    width: fit-content;
+    padding-left: .75rem;
+    padding-right: .75rem;
+}
+
+.btn__register{
+    width: 100%;
+}
+
+.card__drum{
+    margin: 12px;
+}
+
+.card_drum__data{
+    margin: 12px;
+}
